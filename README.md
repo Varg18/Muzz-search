@@ -1,4 +1,4 @@
-# mydiplom
+# mydiplom (Дипломная работа)
 
 ## Project setup
 ```
